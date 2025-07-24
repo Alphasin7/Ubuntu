@@ -1,6 +1,6 @@
 # 📡 Network File System (NFS) on Ubuntu
 
-![NFS Architecture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsonamsingh9286.medium.com%2Fto-configure-the-nfs-client-and-server-on-linux-machines-7fc660483244&psig=AOvVaw3LYWhc4RR0gOhrLc-an2Mb&ust=1753461950069000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOCx-vn41Y4DFQAAAAAdAAAAABAE)
+![NFS Architecture](https://miro.medium.com/v2/resize:fit:720/format:webp/0*R7SY75Ml5M28oMnF.jpg)
 
 > **Network File System (NFS)** is a protocol that allows a server to share directories and files with clients over a network. It enables users on client machines to access files as if they were stored locally, providing a simple and efficient way to centralize storage in Unix-like environments.
 
